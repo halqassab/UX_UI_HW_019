@@ -31,9 +31,11 @@ nav {
     padding: 0;
 }
 a {
-    scroll-behavior: smooth;
     text-decoration: none;
     color: #fff4f4;
+}
+html {
+    scroll-behavior: smooth;
 }
 a:hover {
     color: #edc1d3;
